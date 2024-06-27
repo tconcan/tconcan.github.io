@@ -1,52 +1,15 @@
 About me
-
-Hey! My name is Tom. 
+Hey! My name is Tom, welcome to my website! I'm from Boston, MA, and am now currently studing computer engineering at Purdue University. I'm a motivated and hard-working individual who enjoys learning and striving for improvement in all areas, but especially computers. I wrote my first line of code in the Spring semester of my Freshman year at Purdue and it completely changed my future. I quickly developed a great interest in the feild of computer engineering and am now going into my Junior year this upcoming Fall. Outside of academics I enjoy skiing, fishing, hiking, photography and most importantly hanging out with friends and living through the college experience. Recently, I've been working on a few personal projects (including this website) which you can check out below!
 
 Purdue University
+I'm very lucky to have been able to call Purdue University my home for the past few years. At Purdue, I am currently striving for a degree in Computer Engineering, as well as a minor in Physics. As of right now, I am a Junior and plan to graduate in May 2026. I've explored many extracurricular opprotunities as well, such as research, teaching assistants, and a supplemental instruction leader. I am also a proud member of Sigma Nu's Beta Zeta chapter at Purdue.
+AD RayOptics is a software that can simulate how light rays are bent when travelling through and across different media. It builds ontop of a preexisting Python library, RayOptics, adding functionality to compue gradients of light rays via automatic differentiation. I have been with the team since Fall 2023, and since then we've added interactive 3D plots capable of modelling any given sequential lens model, as well as a slider functionality showing the auto differentiation process. Our team has made many examples showcasing these functionalities, they can be found in our GitHub repository linked below. Our next steps involve hosting the software somewhere where it can be used for educational and research purposes.
+Starting in January, 2023, I picked up a position as a PHYS 17200 TA at Purdue. Through this job I have learned how to best demonstrate leadership by taking initiative in the classroom activities. The classroom enviornment was built heavily around group work, so learning how to foster student-student engagement was crucial. I kept this position for three semesters and loved every second of it, however I am moving onto bigger and better opprotunities. 
+I worked as an ECE 27000 Lab TA for the duration of the Spring 2024 semester. This role taught me how to guide struggling students in the right direction, without giving away too much information, by reenforcing fundamental principles needed to complete the lab activity. Learning to balance assistance versus being a "key" or "cheat sheet" for students was difficult to manage but untimately served as a great experience for myself.
+This upcoming semester I will be starting my position as an ECE 20002 Supplemental Instruction Leader. As an SI Leader, I will develop slideshows and session activities that serve to aid students struggling from lack of comprehension from the main class lectures. Being an SI Leader will be a great opportunity for me to improve upon my leadership and ability to adapt to different situations.
 
 Rogers Imaging Corperation
+This past Summer I picked up my first internship working for Rogers Imaging Corp in Natick, MA. At RIC, I've been tasked with developing a program capable of optimizing treatment options respective to a given patients genetic material. The program uses a variety of algorithms to best optimize treatments. Multiple centrality algorithms are used on a protein-protein interacome to determine the most influential protiens that can then be more effectively treated. 
+Apart from this program I have worked elsewhere in the lab, learning and getting hands-on experience preparing samples for and operating a scanning electron microscope, and confocal microscope. 
 
 My recent project
-
-
-        <nav class="navbar sticky-top navbar-expand-sm bg-body-tertiary">
-            <div class="container-fluid">
-                <a class="navbar-brand mb-0 h1" href="https://tconcan.github.io/">Tom Concannon</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent"></div>
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="https://tconcan.github.io/">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Projects</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Resume</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link py-2 px-0 px-sm-2" href="https://www.linkedin.com/in/thomascon/" target="_blank">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
-                                <title>LinkedIn</title>
-                                <path fill="currentColor" fill-rule="evenodd" d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
-                                </svg>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link py-2 px-0 px-sm-2" href="https://github.com/tconcan" target="_blank">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="navbar-nav-svg" viewBox="0 0 512 512" role="img">
-                                    <title>GitHub</title>
-                                    <path fill="currentColor" fill-rule="evenodd" d="M256 0C114.64 0 0 114.61 0 256c0 113.09 73.34 209 175.08 242.9 12.8 2.35 17.47-5.56 17.47-12.34 0-6.08-.22-22.18-.35-43.54-71.2 15.49-86.2-34.34-86.2-34.34-11.64-29.57-28.42-37.45-28.42-37.45-23.27-15.84 1.73-15.55 1.73-15.55 25.69 1.81 39.21 26.38 39.21 26.38 22.84 39.12 59.92 27.82 74.5 21.27 2.33-16.54 8.94-27.82 16.25-34.22-56.84-6.43-116.6-28.43-116.6-126.49 0-27.95 10-50.8 26.35-68.69-2.63-6.48-11.42-32.5 2.51-67.75 0 0 21.49-6.88 70.4 26.24a242.65 242.65 0 0 1 128.18 0c48.87-33.13 70.33-26.24 70.33-26.24 14 35.25 5.18 61.27 2.55 67.75 16.41 17.9 26.31 40.75 26.31 68.69 0 98.35-59.85 120-116.88 126.32 9.19 7.9 17.38 23.53 17.38 47.41 0 34.22-.31 61.83-.31 70.23 0 6.85 4.61 14.81 17.6 12.31C438.72 464.97 512 369.08 512 256.02 512 114.62 397.37 0 256 0z"></path>
-                                </svg>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-                        
-                        
-                        
-                        

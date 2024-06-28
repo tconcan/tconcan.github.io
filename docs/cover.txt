@@ -10,6 +10,6 @@ This upcoming semester I will be starting my position as an ECE 20002 Supplement
 
 Rogers Imaging Corperation
 This past Summer I picked up my first internship working for Rogers Imaging Corp in Natick, MA. At RIC, I've been tasked with developing a program capable of optimizing treatment options respective to a given patients genetic material. The program uses a variety of algorithms to best optimize treatments. Multiple centrality algorithms are used on a protein-protein interacome to determine the most influential protiens that can then be more effectively treated. 
-Apart from this program I have worked elsewhere in the lab, learning and getting hands-on experience preparing samples for and operating a scanning electron microscope, and confocal microscope. 
+Apart from this program, I also gained hands-on experience elsewhere in the lab. I worked alongside others preparing samples for microscopy, as well as operating a scanning electron microscope, and confocal microscope. Overall, this has been a great experience for me and I've learned so much from the time I've been here
 
 My recent project

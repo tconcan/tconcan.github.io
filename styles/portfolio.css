@@ -1,0 +1,139 @@
+.fullscreen-container {
+    box-sizing: border-box;
+    height: calc(100vh - 56px);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.image-container-cover {
+    overflow: hidden;
+    max-width: 100%;
+    position: relative;
+}
+
+.image-container-cover img {
+    height: calc(100% - 80px);
+    width: auto;
+    min-width: 100%;
+    object-fit: cover;
+    object-position: center;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.card-button {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.card-text {
+    font-size: 1.25rem;
+}
+
+.fade {
+    opacity: 0;
+    transition: opacity 0.5s;
+    display: none;
+}
+
+.fade.show {
+    opacity: 1;
+    display: block;
+}
+
+.bg-purdue {
+    background-color: #cfb991 !important;
+}
+
+.bg-python {
+    background-color: #4584b6 !important;
+}
+
+.bg-jupyter {
+    background-color: #f37726 !important;
+}
+
+.bg-personal {
+    background-color: #5b4bdb !important;
+}
+
+.bg-js {
+    background-color: #f0db4f !important;
+}
+
+.bg-html {
+    background-color: #e34c26 !important;
+}
+
+.bg-css{
+    background-color: #264de4 !important;
+}
+
+.bg-oop {
+    background-color: #56dfa1 !important;
+}
+
+.bg-dsa {
+    background-color: #0c8b4a !important;
+}
+
+.bg-hackathon {
+    background-color: #28e9cf !important;
+}
+
+.bg-sqlite {
+    background-color: #003b57 !important;
+}
+
+.bg-flask {
+    background-color: #000000 !important;
+}
+
+.bg-mlai {
+    background-color: #8928ff !important;
+}
+
+.navbar {
+    box-shadow: 0 4px 32px rgba(0, 0, 0, 0.5);
+}
+
+.header-image {
+    width: 100%;
+    height: 500px;
+}
+
+.image-container-project {
+    overflow: hidden;
+    max-width: 100%;
+    position: relative;
+}
+
+.image-container-project img {
+    height: 100%;
+    width: auto;
+    min-width: 100%;
+    object-fit: cover;
+    object-position: center;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5); 
+    text-align: center;
+}

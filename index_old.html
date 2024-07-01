@@ -49,37 +49,39 @@
                 </div>
             </div>
         </nav>
-        <div class="fullscreen-container">
+        <div class="fullscreen-container mb-0">
             <div class="container-fluid p-5 h-100">
-                <div class="row row-cols-1 h-100 g-4">
-                    <div class="col-md-5 col-lg-6 col-xl-7 h-100">
-                        <div class="row row-cols-1 row-cols-xl-2 align-items-xl-stretch h-100">
-                            <div class="col mt0">
-                                <div class="card h-100 bg-body-tertiary image-container-cover fade" id="about_card">
+                <div class="row h-100 g-0">
+                    <div class="col-8 h-100">
+                        <div class="row h-50 g-0 pb-2">
+                            <div class="col">
+                                <div class="card h-100 me-3 bg-body-secondary image-container-cover fade" id="about_card">
                                     <img src="images/about_me2.jpg" class="card-img-top" alt="About me">
                                     <div class="card-body card-button">
                                         <button type="button" class="btn btn-primary btn-lg" id="about_btn" onclick="changeMode('about')">About me</button>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mt-4 mt-xl-0">
-                                <div class="card h-100 bg-body-tertiary image-container-cover fade" id="purdue_card">
+                            <div class="col">
+                                <div class="card h-100 me-3 bg-body-secondary image-container-cover fade" id="purdue_card">
                                     <img src="images/purdue.jpg" class="card-img-top" alt="My school">
                                     <div class="card-body card-button">
                                         <button type="button" class="btn btn-primary btn-lg" id="purdue_btn" onclick="changeMode('purdue')">Purdue University</button>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mt-4">
-                                <div class="card h-100 bg-body-tertiary image-container-cover fade" id="intern_card">
+                        </div>
+                        <div class="row h-50 g-0 pt-2">
+                            <div class="col">
+                                <div class="card h-100 me-3 bg-body-secondary image-container-cover fade" id="intern_card">
                                     <img src="images/ric.jpg" class="card-img-top" alt="My internship">
                                     <div class="card-body card-button">
                                         <button type="button" class="btn btn-primary btn-lg" id="intern_btn" onclick="changeMode('intern')">Rogers Imaging</button>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col mt-4">
-                                <div class="card h-100 bg-body-tertiary image-container-cover fade" id="project_card">
+                            <div class="col">
+                                <div class="card h-100 me-3 bg-body-secondary image-container-cover fade" id="project_card">
                                     <img src="images/placeholder.png" class="card-img-top" alt="My project">
                                     <div class="card-body card-button">
                                         <button type="button" class="btn btn-primary btn-lg" id="project_btn" onclick="changeMode('project')">My recent project</button>
@@ -88,8 +90,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-7 col-lg-6 col-xl-5 h-100">
-                        <div class="card border-5 h-100 bg-body-tertiary fade" id="about" style="display: block;">
+                    <div class="col-4 h-100">
+                        <div class="card border-5 h-100 bg-body-secondary fade" id="about" style="display: block;">
                             <div class="card-body">
                                 <h1 class="card-title">About me</h1>
                                 <h6 class="card-subtitle mb-2 text-body-secondary">thomascon04@gmail.com</h6>
@@ -101,7 +103,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="card border-5 h-100 bg-body-tertiary fade" id="purdue" style="display: none;">
+                        <div class="card border-5 h-100 bg-body-secondary fade" id="purdue" style="display: none;">
                             <div class="card-header">
                                 <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                     <li class="nav-item" role="presentation">
@@ -162,7 +164,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="card border-5 h-100 bg-body-tertiary fade" id="intern" style="display: none;">
+                        <div class="card border-5 h-100 bg-body-secondary fade" id="intern" style="display: none;">
                             <div class="card-body">
                                 <h1 class="card-title">Rogers Imaging</h1>
                                 <h6 class="card-subtitle mb-2 text-body-secondary">Natick, MA</h6>
@@ -182,7 +184,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="card border-5 h-100 bg-body-tertiary fade" id="project" style="display: none;">
+                        <div class="card border-5 h-100 bg-body-secondary fade" id="project" style="display: none;">
                             <div class="card-body">
                                 <h1 class="card-title">My recent project</h1>
                                 <h6 class="card-subtitle mb-2 text-body-secondary">This website!</h6>

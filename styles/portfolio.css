@@ -139,3 +139,7 @@
     background-color: rgba(0, 0, 0, 0.5); 
     text-align: center;
 }
+
+.card-text {
+    font-size: 1.5vh;
+}

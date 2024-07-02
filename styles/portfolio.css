@@ -58,7 +58,7 @@
 }
 
 .bg-personal {
-    background-color: #5b4bdb !important;
+    background-color: #dc0f0f !important;
 }
 
 .bg-js {
@@ -82,7 +82,7 @@
 }
 
 .bg-hackathon {
-    background-color: #28e9cf !important;
+    background-color: #142895 !important;
 }
 
 .bg-sqlite {
@@ -95,6 +95,14 @@
 
 .bg-mlai {
     background-color: #8928ff !important;
+}
+
+.bg-ric {
+    background-color: #00a6ff !important;
+}
+
+.bg-r {
+    background-color: #276dc3 !important;
 }
 
 .navbar {

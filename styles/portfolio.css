@@ -61,6 +61,14 @@
     background-color: #dc0f0f !important;
 }
 
+.bg-docker {
+    background-color: #1d63ed !important;
+}
+
+.bg-makefile {
+    background-color: #4a4a4a !important;
+}
+
 .bg-js {
     background-color: #f0db4f !important;
 }

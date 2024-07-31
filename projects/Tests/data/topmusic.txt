@@ -1038,26 +1038,6 @@ KAROL G, Farruko
 KAROL G, Bad Bunny
 KAROL G, Piso 21
 KAROL G, Nicky Jam
-Cris Mj, Lucky Brown
-Cris Mj, FloyyMenor
-Cris Mj, Jere Klein
-Cris Mj, Jairo Vera
-Cris Mj, Nickoog Clk
-Cris Mj, Pablo Chill-E
-Cris Mj, Standly
-Cris Mj, El BAI
-Cris Mj, El Jordan 23
-Cris Mj, Pailita
-Cris Mj, ITHAN NY
-Cris Mj, Kidd Voodoo
-Cris Mj, Julianno Sosa
-Cris Mj, Ak4:20
-Cris Mj, Gino Mella
-Cris Mj, Giuliano Yankees
-Cris Mj, Marcianeke
-Cris Mj, King Savagge
-Cris Mj, Piero 47
-Cris Mj, Young Cister
 Lady Gaga, Britney Spears
 Lady Gaga, Katy Perry
 Lady Gaga, Kesha
@@ -1078,26 +1058,6 @@ Lady Gaga, Fergie
 Lady Gaga, Spice Girls
 Lady Gaga, Rihanna
 Lady Gaga, Dua Lipa
-Peso Pluma, Gabito Ballesteros
-Peso Pluma, Oscar Maydon
-Peso Pluma, Fuerza Regida
-Peso Pluma, Matanael Cano
-Peso Pluma, Chino Pacas
-Peso Pluma, Junior H
-Peso Pluma, Luis R Conriquez
-Peso Pluma, Tito Double P
-Peso Pluma, Xavi
-Peso Pluma, Grupo Marca Registrada
-Peso Pluma, Calle 34
-Peso Pluma, Jasiel Nunez
-Peso Pluma, Edgardo Nunez
-Peso Pluma, Eslabon Armando
-Peso Pluma, Grupo Frontera
-Peso Pluma, Ivan Cornejo
-Peso Pluma, T3R Elemento
-Peso Pluma, Alfredo Olivas
-Peso Pluma, Panter Belico
-Peso Pluma, Eden Munoz
 Chris Brown, Trey Songz
 Chris Brown, T-Pain
 Chris Brown, Ne-Yo
@@ -1118,26 +1078,306 @@ Chris Brown, Big Sean
 Chris Brown, Lloyd
 Chris Brown, Lil Wayne
 Chris Brown, Ty Dolla Sign
-Cardi B
-Megan Thee Stallion
-Iggy Azalea
-Ciara
-Ice Spice
-Beyonce
-City Girls
-Rihanna
-Saweetie
-Doja Cat
-Kehlani
-Normani
-Britney Spears
-Kesha
-Bhad Bhabie
-Jennifer
-
-
-
-
+Nicki Manaj, Cardi B
+Nicki Manaj, Megan Thee Stallion
+Nicki Manaj, Iggy Azalea
+Nicki Manaj, Ciara
+Nicki Manaj, Ice Spice
+Nicki Manaj, Beyonce
+Nicki Manaj, City Girls
+Nicki Manaj, Rihanna
+Nicki Manaj, Saweetie
+Nicki Manaj, Doja Cat
+Nicki Manaj, Kehlani
+Nicki Manaj, Normani
+Nicki Manaj, Britney Spears
+Nicki Manaj, Kesha
+Nicki Manaj, Bhad Bhabie
+Nicki Manaj, Jennifer Lopez
+Nicki Manaj, Destiny's Child
+Nicki Manaj, Summer Walker
+Nicki Manaj, SZA
+Nicki Manaj, Fergie
+Camila Cabello, Fifth Harmony
+Camila Cabello, Bebe Rexha
+Camila Cabello, Demi Lovato
+Camila Cabello, Anne-Marie
+Camila Cabello, Selene Gomez
+Camila Cabello, Shawn Mendes
+Camila Cabello, Zara Larsson
+Camila Cabello, Halsey
+Camila Cabello, Nick Jonas
+Camila Cabello, Alessia Cara
+Camila Cabello, Hailee Steinfeld
+Camila Cabello, Meghan Trainor
+Camila Cabello, Little Mix
+Camila Cabello, ZAYN
+Camila Cabello, Rita Ora
+Camila Cabello, Dua Lipa
+Camila Cabello, Selena Gomez & The Scene
+Camila Cabello, Charlie Puth
+Camila Cabello, Jonas Brothers
+Camila Cabello, Ava Max
+Morgan Wallen, Bailey Zimmerman
+Morgan Wallen, Luke Combs
+Morgan Wallen, HARDY
+Morgan Wallen, Jordan Davis
+Morgan Wallen, Cordy Johnson
+Morgan Wallen, Jon Pardi
+Morgan Wallen, Riley Green
+Morgan Wallen, Zach Bryan
+Morgan Wallen, Dylan Scott
+Morgan Wallen, Kane Brown
+Morgan Wallen, Jason Aldean
+Morgan Wallen, Thomas Rhett
+Morgan Wallen, Dustin Lynch
+Morgan Wallen, Cole Swindell
+Morgan Wallen, Lainey Wilson
+Morgan Wallen, Warren Zeiders
+Morgan Wallen, Luke Bryan
+Morgan Wallen, Jelly Roll
+Morgan Wallen, Koe Wetzel
+Morgan Wallen, Lee Brice
+One Direction, Louis Tomlinson
+One Direction, Niall Horan
+One Direction, Liam Payne
+One Direction, 5 Seconds of Summer
+One Direction, ZAYN
+One Direction, Harry Styles
+One Direction, The Vamps
+One Direction, Shawn Mendes
+One Direction, Jonas Brothers
+One Direction, Little Mix
+One Direction, Charlie Puth
+One Direction, Nick Jonas
+One Direction, Justin Bieber
+One Direction, Demi Lovato
+One Direction, Fifth Harmony
+One Direction, James Arthur
+One Direction, Camila Cabello
+One Direction, Selena Gomez
+One Direction, Anne-Marie
+One Direction, Conan Gray
+The Kid LAROI, iann dior
+The Kid LAROI, 24kGoldn
+The Kid LAROI, Internet Money
+The Kid LAROI, Jack Harlow
+The Kid LAROI, Lil Mosey
+The Kid LAROI, Backrol Hayden
+The Kid LAROI, Polo G
+The Kid LAROI, Lil Tecca
+The Kid LAROI, Trippie Redd
+The Kid LAROI, Lil Tjay
+The Kid LAROI, Lil Skies
+The Kid LAROI, DaBaby
+The Kid LAROI, mgk
+The Kid LAROI, Juice WRLD
+The Kid LAROI, benny blanco
+The Kid LAROI, Roddy Ricch
+The Kid LAROI, Ski Mask The Slump God
+The Kid LAROI, Sleepy Hallow
+The Kid LAROI, A Boogie Wit da Hoodie
+The Kid LAROI, Arizona Zervas
+Maluma, J Balvin
+Maluma, Nicky Jam
+Maluma, Piso 21
+Maluma, Manuel Turizo
+Maluma, Farruko
+Maluma, Wisin
+Maluma, Yandel
+Maluma, Sebastian Yatra
+Maluma, Ozuna
+Maluma, NATTI NATASHA
+Maluma, Daddy Yankee
+Maluma, Camilo
+Maluma, Zion & Lennox
+Maluma, CNCO
+Maluma, Wisin & Yandel
+Maluma, Becky G
+Maluma, Nacho
+Maluma, Sech
+Maluma, Caly Y El Dandee
+Maluma, J Alvarez
+Ozuna, Farruko
+Ozuna, Nicky Jam
+Ozuna, Yandel
+Ozuna, J Balvin
+Ozuna, Wisin
+Ozuna, Sech
+Ozuna, Zion & Lennox
+Ozuna, Manuel Turizo
+Ozuna, Daddy Yankee
+Ozuna, Maluma
+Ozuna, Anuel AA
+Ozuna, Arcangel
+Ozuna, NATTI NATASHA
+Ozuna, De La Ghetto
+Ozuna, Myke Towers
+Ozuna, Lunay
+Ozuna, Justin Quiles
+Ozuna, Piso 21
+Ozuna, Wisin & Yandel
+Ozuna, Noriel
+Feid, Mora
+Feid, Blessd
+Feid, Ryan Castro
+Feid, Young Miko
+Feid, Myke Towers
+Feid, JHAYCO
+Feid, Eladio Carrion
+Feid, Rauw Alejandro
+Feid, Quevedo
+Feid, Lenny Tavarez
+Feid, SAIKO
+Feid, Alvaro Diaz
+Feid, Tainy
+Feid, Dei V
+Feid, Arcangel
+Feid, Justin Quiles
+Feid, Sech
+Feid, Dalex
+Feid, Jay Wheeler
+Feid, Rels B
+Micheal Jackson, The Jacksons
+Micheal Jackson, Prince
+Micheal Jackson, Wham!
+Micheal Jackson, Janet Jackson
+Micheal Jackson, George Michael
+Micheal Jackson, The Jackson 5
+Micheal Jackson, Madonna
+Micheal Jackson, Kool & The Gang
+Micheal Jackson, Queen
+Micheal Jackson, Whitney Houston
+Micheal Jackson, Stevie Wonder
+Micheal Jackson, Elton John
+Micheal Jackson, Tina Turner
+Micheal Jackson, Earth Wind & Fire
+Micheal Jackson, Lionel Richie
+Micheal Jackson, The Beatles
+Micheal Jackson, Elvis Presley
+Micheal Jackson, Aerosmith
+Micheal Jackson, Justin Timberlake
+Micheal Jackson, Bon Jovi
+Zach Bryan, Tyler Childers
+Zach Bryan, Sam Barber
+Zach Bryan, Treaty Oak Revival
+Zach Bryan, Bailey Zimmerman
+Zach Bryan, Koe Wetzel
+Zach Bryan, Wyatt Flores
+Zach Bryan, Morgan Wallen
+Zach Bryan, Noah Kahan
+Zach Bryan, Cody Johnson
+Zach Bryan, Gavin Adcock
+Zach Bryan, Dylan Gossett
+Zach Bryan, Megan Moroney
+Zach Bryan, Riley Green
+Zach Bryan, Flatland Cavalry
+Zach Bryan, Parker McCollum
+Zach Bryan, Luke Combs
+Zach Bryan, Josh Meloy
+Zach Bryan, Muscadine Bloodline
+Zach Bryan, Colter Wallen
+Zach Bryan, Warren Zeiders
+Noah Kahan, Zach Bryan
+Noah Kahan, Lizzy McAlpine
+Noah Kahan, Mt. Joy
+Noah Kahan, Caamp
+Noah Kahan, Michael Marcagi
+Noah Kahan, Hozier
+Noah Kahan, Chance Pena
+Noah Kahan, Gracie Abrams
+Noah Kahan, The Lumineers
+Noah Kahan, Benson Boone
+Noah Kahan, Phoebe Bridgers
+Noah Kahan, Kacey Musgraves
+Noah Kahan, boygenius
+Noah Kahan, Rainbow Kitten Surprise
+Noah Kahan, Gregory Alan Isakov
+Noah Kahan, Dylan Gossett
+Noah Kahan, The Backseat Lovers
+Noah Kahan, Tyler Childers
+Noah Kahan, Chappell Roan
+Noah Kahan, The 502s
+Luke Combs, Kane Brown
+Luke Combs, Morgan Wallen
+Luke Combs, Jordan Davis
+Luke Combs, Jon Pardi
+Luke Combs, Luke Bryan
+Luke Combs, Dylan Scott
+Luke Combs, Cole Swindell
+Luke Combs, Thomas Rhett
+Luke Combs, Cody Johnson
+Luke Combs, Jason Aldean
+Luke Combs, Lee Brice
+Luke Combs, Dustin Lynch
+Luke Combs, Bailey Zimmerman
+Luke Combs, Florida Georgia Line
+Luke Combs, Riley Green
+Luke Combs, Chris Young
+Luke Combs, Eric Church
+Luke Combs, Old Dominion
+Luke Combs, Brantley Gilbert
+Luke Combs, Justin Moroney
+Chris Stapleton, Eric Church
+Chris Stapleton, Jamey Johnson
+Chris Stapleton, Brothers Osborne
+Chris Stapleton, Tyler Childers
+Chris Stapleton, Cody Jinks
+Chris Stapleton, Zac Brown Band
+Chris Stapleton, George Strait
+Chris Stapleton, Jason Aldean
+Chris Stapleton, Wiskey Myers
+Chris Stapleton, Luke Combs
+Chris Stapleton, Brooks & Dunn
+Chris Stapleton, Cody Johnson
+Chris Stapleton, Kenny Chesney
+Chris Stapleton, Jon Pardi
+Chris Stapleton, Dierks Bentley
+Chris Stapleton, Darius Rucker
+Chris Stapleton, Aaron Lewis
+Chris Stapleton, Blake Sheltin
+Chris Stapleton, Hank Williams Jr.
+Chris Stapleton, Tim McGraw
+Peso Pluma, Gabito Ballesteros
+Peso Pluma, Oscar Maydon
+Peso Pluma, Fuerza Regida
+Peso Pluma, Matanael Cano
+Peso Pluma, Chino Pacas
+Peso Pluma, Junior H
+Peso Pluma, Luis R Conriquez
+Peso Pluma, Tito Double P
+Peso Pluma, Xavi
+Peso Pluma, Grupo Marca Registrada
+Peso Pluma, Calle 34
+Peso Pluma, Jasiel Nunez
+Peso Pluma, Edgardo Nunez
+Peso Pluma, Eslabon Armando
+Peso Pluma, Grupo Frontera
+Peso Pluma, Ivan Cornejo
+Peso Pluma, T3R Elemento
+Peso Pluma, Alfredo Olivas
+Peso Pluma, Panter Belico
+Peso Pluma, Eden Munoz
+Cris Mj, Lucky Brown
+Cris Mj, FloyyMenor
+Cris Mj, Jere Klein
+Cris Mj, Jairo Vera
+Cris Mj, Nickoog Clk
+Cris Mj, Pablo Chill-E
+Cris Mj, Standly
+Cris Mj, El BAI
+Cris Mj, El Jordan 23
+Cris Mj, Pailita
+Cris Mj, ITHAN NY
+Cris Mj, Kidd Voodoo
+Cris Mj, Julianno Sosa
+Cris Mj, Ak4:20
+Cris Mj, Gino Mella
+Cris Mj, Giuliano Yankees
+Cris Mj, Marcianeke
+Cris Mj, King Savagge
+Cris Mj, Piero 47
+Cris Mj, Young Cister
 
 
 

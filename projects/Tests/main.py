@@ -10,11 +10,11 @@ G = g.to_networkx()
 mapping = {i: name for i, name in enumerate(g.vs["name"])}
 nx.relabel_nodes(G, mapping, copy=False)
 
-layout_2D = nx.spring_layout(G, seed=42) 
+layout_2D = nx.spring_layout(G, seed=41, iterations=200) 
 x2 = [pos[0] for pos in layout_2D.values()]
 y2 = [pos[1] for pos in layout_2D.values()]
 
-layout_3D = nx.spring_layout(G, seed=42, dim=3)
+layout_3D = nx.spring_layout(G, seed=41, dim=3)
 x3 = [pos[0] for pos in layout_3D.values()]
 y3 = [pos[1] for pos in layout_3D.values()]
 z3 = [pos[2] for pos in layout_3D.values()]
@@ -61,7 +61,7 @@ fig_3D.update_layout(scene=dict(xaxis=dict(visible=False), yaxis=dict(visible=Fa
                             zaxis=dict(visible=False), aspectmode='manual',
                             aspectratio=dict(x=1, y=1, z=1)), showlegend=False)
 
-fig_2D.write_image(f"./plots/2D.png", height=1500, width=1500, scale=1.0)
+fig_2D.write_image(f"./plots/2D.png", height=6000, width=6000, scale=1.0)
 fig_3D.write_html(f"./plots/3D.html")
 
 

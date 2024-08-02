@@ -13,24 +13,22 @@ nx.relabel_nodes(G, mapping, copy=False)
 layout_2D = nx.spring_layout(G, seed=41, iterations=200) 
 x2 = [pos[0] for pos in layout_2D.values()]
 y2 = [pos[1] for pos in layout_2D.values()]
+print("2D layout done")
 
-layout_3D = nx.spring_layout(G, seed=41, dim=3)
+layout_3D = nx.spring_layout(G, seed=41, dim=3, iterations=200)
 x3 = [pos[0] for pos in layout_3D.values()]
 y3 = [pos[1] for pos in layout_3D.values()]
 z3 = [pos[2] for pos in layout_3D.values()]
+print("3D layout done")
 
 node_sizes = [(np.log(G.degree(node)) + 1) * 10 for node in G.nodes()]
 node_trace_2D = [go.Scatter(x=x2, y=y2, mode='markers+text',
-                           text=list(G.nodes()), textposition='top center',
-                           marker=dict(color='royalblue', size=node_sizes, 
-                                       line=dict(color='black', width=0.5)),
-                           hoverinfo='text', hovertext=list(G.nodes()))]
+                            text=list(G.nodes()), textposition='top center',
+                            marker=dict(color='royalblue', opacity=0.3, size=node_sizes),
+                            hoverinfo='text', hovertext=list(G.nodes()))]
 
-node_trace_3D = [go.Scatter3d(x=x3, y=y3, z=z3, mode='markers+text',
-                              text=list(G.nodes()), textposition='top center',
-                              marker=dict(color='royalblue', opacity=0.95,
-                                          size=node_sizes, line=dict(color='black',
-                                                                     width=0.5)),
+node_trace_3D = [go.Scatter3d(x=x3, y=y3, z=z3, mode='markers',
+                              marker=dict(color='royalblue', opacity=0.3, size=node_sizes, line=dict(width=0)),
                               hoverinfo='text', hovertext=list(G.nodes()))]
 
 edge_x2, edge_y2 = [], []
@@ -51,6 +49,7 @@ for edge in G.edges():
     edge_z3.extend([z0, z1, None])
 edge_trace_3D = [go.Scatter3d(x=edge_x3, y=edge_y3, z=edge_z3, mode='lines',
                             line=dict(width=0.5, color='black'), hoverinfo='none')]
+print("Traces done")
 
 fig_2D = go.Figure(data=edge_trace_2D + node_trace_2D)
 fig_2D.update_layout(xaxis=dict(visible=False), yaxis=dict(visible=False),

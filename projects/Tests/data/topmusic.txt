@@ -296,7 +296,7 @@ Kendrick Lamar, ScHoolboy Q
 Kendrick Lamar, Lil Uzi Vert
 Kendrick Lamar, Travis Scott
 Kendrick Lamar, Chance the Rapper
-Kendrick Lamar, Don Doliver
+Kendrick Lamar, Don Toliver
 Kendrick Lamar, Brent Faiyaz
 SZA, Summer Walker
 SZA, H.E.R.
@@ -1033,7 +1033,7 @@ KAROL G, Daddy Yankee
 KAROL G, Cazzu
 KAROL G, Sech
 KAROL G, Romeo Santos
-KAROL G, Anuell AA
+KAROL G, Anuel AA
 KAROL G, Farruko
 KAROL G, Bad Bunny
 KAROL G, Piso 21
@@ -1378,10 +1378,323 @@ Cris Mj, Marcianeke
 Cris Mj, King Savagge
 Cris Mj, Piero 47
 Cris Mj, Young Cister
-
-
-
-
-
-
-
+FloyyMenor, Lucky Brown
+FloyyMenor, El BAI
+FloyyMenor, ITHAN NY
+FloyyMenor, Mateo on the Beatz
+FloyyMenor, Giuliano Yankees
+FloyyMenor, Nickoog Clk
+FloyyMenor, Cris Mj
+FloyyMenor, King Savagge
+FloyyMenor, Tobal Mj
+FloyyMenor, Piero 47
+FloyyMenor, Jere Klein
+FloyyMenor, Tunechikidd
+FloyyMenor, Pablo Chill-E
+FloyyMenor, Julianno Sosa
+FloyyMenor, Galee Galee
+FloyyMenor, II Nene De Oro
+FloyyMenor, El Jordan 23
+FloyyMenor, Ak4:20
+FloyyMenor, Jairo Vera
+FloyyMenor, Lamelodiadelhampa
+Playboi Carti, Ken Carson
+Playboi Carti, Destroy Lonely
+Playboi Carti, Yeat
+Playboi Carti, Lil Uzi Vert
+Playboi Carti, Chief Keef
+Playboi Carti, LUCKI
+Playboi Carti, Baby Keem
+Playboi Carti, Don Toliver
+Playboi Carti, Lil Yachty
+Playboi Carti, Metro Boomin
+Playboi Carti, Pi'erre Bourne
+Playboi Carti, Trippie Redd
+Playboi Carti, Tay-K
+Playboi Carti, 21 Savage
+Playboi Carti, Homixide Gang
+Playboi Carti, Gunna
+Playboi Carti, Lil Tecca
+Playboi Carti, Young Thug
+Playboi Carti, Rich Amiri
+Playboi Carti, Cochise
+Tommy Richman, FELIX!
+Tommy Richman, 4batz
+Tommy Richman, mynameisntjmack
+Tommy Richman, Jordan Ward
+Tommy Richman, Aaron Maydon
+Tommy Richman, Teezo Touchdown
+Tommy Richman, Baby Keem
+Tommy Richman, JID
+Tommy Richman, Smino
+Tommy Richman, Hotel Ugly
+Tommy Richman, Chase Shakur
+Tommy Richman, Don Toliver
+Tommy Richman, Isaiah Rashad
+Tommy Richman, Brent Faiyaz
+Tommy Richman, Sonder
+Tommy Richman, YS
+Tommy Richman, BigXthaPlug
+Tommy Richman, Cochise
+Tommy Richman, Bakar
+Tommy Richman, Jack Harlow
+Bebe Rexha, Zara Larsson
+Bebe Rexha, Anna-Marie
+Bebe Rexha, Rita Ora
+Bebe Rexha, Clean Bandit
+Bebe Rexha, Ava Max
+Bebe Rexha, Haliee Steinfeld
+Bebe Rexha, Daya
+Bebe Rexha, Ellie Goulding
+Bebe Rexha, Fifth Harmony
+Bebe Rexha, Alessia Cara
+Bebe Rexha, Mabel
+Bebe Rexha, Julia Michaels
+Bebe Rexha, Halsey
+Bebe Rexha, Iggy Azalea
+Bebe Rexha, Little Mix
+Bebe Rexha, Tove Lo
+Bebe Rexha, Nick Jonas
+Bebe Rexha, Demi Lovato
+Bebe Rexha, Kesha
+Bebe Rexha, Camila Cabello
+Halsey, Bebe Rexha
+Halsey, Alessia Cara
+Halsey, Hailee Steinfeld
+Halsey, Anne-Marie
+Halsey, Zara Larsson
+Halsey, Julia Michaels
+Halsey, Ellie Goulding
+Halsey, Camila Cabello
+Halsey, Tove Lo
+Halsey, Demi Lovato
+Halsey, Troye Sivan
+Halsey, 5 Seconds of Summer
+Halsey, Fifth Harmony
+Halsey, Rita Ora
+Halsey, Hayley Kiyoko
+Halsey, Little Mix
+Halsey, Nick Jonas
+Halsey, ZAYN
+Halsey, Bea Miller
+Halsey, Selena Gomez
+Shawn Mendes, Charlie Puth
+Shawn Mendes, Camila Cabello
+Shawn Mendes, ZAYN
+Shawn Mendes, Nick Jonas
+Shawn Mendes, Jonas Brothers
+Shawn Mendes, Niall Horan
+Shawn Mendes, 5 Seconds of Summer
+Shawn Mendes, Liam Payne
+Shawn Mendes, Anne-Marie
+Shawn Mendes, Demi Lovato
+Shawn Mendes, Fifth Harmony
+Shawn Mendes, The Vamps
+Shawn Mendes, One Direction
+Shawn Mendes, Alessia Cara
+Shawn Mendes, Bebe Rexha
+Shawn Mendes, Louis Tomlinson
+Shawn Mendes, Zara Larsson
+Shawn Mendes, Halsey
+Shawn Mendes, Selena Gomez
+Shawn Mendes, Harry Styles
+Myke Towers, JHAYCO
+Myke Towers, Dei V
+Myke Towers, Eladio Carrion
+Myke Towers, Mora
+Myke Towers, SAIKO
+Myke Towers, Bryant Myers
+Myke Towers, Dalex
+Myke Towers, Sech
+Myke Towers, Rauw Alejandro
+Myke Towers, Lenny Tavarez
+Myke Towers, Justin Quiles
+Myke Towers, Quevedo
+Myke Towers, Jay Wheeler
+Myke Towers, Feid
+Myke Towers, Arcangel
+Myke Towers, Lunay
+Myke Towers, Anuel AA
+Myke Towers, Darell
+Myke Towers, Noriel
+Myke Towers, Alex Rose
+Black Eyed Peas, will.i.am
+Black Eyed Peas, Fergie
+Black Eyed Peas, Timbaland
+Black Eyed Peas, LMFAO
+Black Eyed Peas, Nelly Furtado
+Black Eyed Peas, Gwen Stefani
+Black Eyed Peas, The Pussycat Dolls
+Black Eyed Peas, Flo Rida
+Black Eyed Peas, Taio Cruz
+Black Eyed Peas, Pitbull
+Black Eyed Peas, Justin Timberlake
+Black Eyed Peas, Pharrell Williams
+Black Eyed Peas, Christina Aguilera
+Black Eyed Peas, Sean Paul
+Black Eyed Peas, Sean Kingston
+Black Eyed Peas, Spice Girls
+Black Eyed Peas, Jennifer Lopez
+Black Eyed Peas, Jason Derulo
+Black Eyed Peas, Missy Elliot
+Black Eyed Peas, Kesha
+Linkin Park, Papa Roach
+Linkin Park, Limp Bizkit
+Linkin Park, Three Days Grace
+Linkin Park, Breaking Benjamin
+Linkin Park, System Of A Down
+Linkin Park, Disturbed
+Linkin Park, Green Day
+Linkin Park, Korn
+Linkin Park, 3 Doors Down
+Linkin Park, Slipknot
+Linkin Park, Evanescence
+Linkin Park, The Offspring
+Linkin Park, Sum 41
+Linkin Park, Hoobastank
+Linkin Park, blink-182
+Linkin Park, Skillet
+Linkin Park, Seether
+Linkin Park, Nickelback
+Linkin Park, Bullet For My Valentine
+Linkin Park, P.O.D.
+The Neighbourhood, Chase Atlantic
+The Neighbourhood, girl in red
+The Neighbourhood, Cigarettes After Sex
+The Neighbourhood, Arctic Monkeys
+The Neighbourhood, TV Girl
+The Neighbourhood, Mitski
+The Neighbourhood, Conan Gray
+The Neighbourhood, Clairo
+The Neighbourhood, Eyedress
+The Neighbourhood, Mother Mother
+The Neighbourhood, Melanie Martinez
+The Neighbourhood, Lana Del Rey
+The Neighbourhood, Isabel LaRosa
+The Neighbourhood, Beach Weather
+The Neighbourhood, Cavetown
+The Neighbourhood, Wallows
+The Neighbourhood, Mac DeMarco
+The Neighbourhood, Montell Fish
+The Neighbourhood, MARINA
+The Neighbourhood, Steve Lacy
+USHER, Ne-Yo
+USHER, Mario
+USHER, Trey Songz
+USHER, Ginuwine
+USHER, Nelly
+USHER, T-Pain
+USHER, Tyrese
+USHER, Ashanti
+USHER, Jagged Edge
+USHER, Omarion
+USHER, Ciara
+USHER, Bow Wow
+USHER, 112
+USHER, Mary J. Blige
+USHER, Aaliyah
+USHER, Joe
+USHER, Ludacris
+USHER, K-Ci & JoJo
+USHER, Boyz II Men
+USHER, T.I.
+Sawe Lee, Slim Jxmmi
+Sawe Lee, Rae Sremmurd
+Sawe Lee, Rich The Kid
+Sawe Lee, Offset
+Sawe Lee, Mike WiLL Made-It
+Sawe Lee, Sheck Wes
+Sawe Lee, Quavo
+Sawe Lee, Takeoff
+Sawe Lee, Mustard
+Sawe Lee, Flipp Dinero
+Sawe Lee, Internet Money
+Sawe Lee, Bleu
+Sawe Lee, Desiigner
+Sawe Lee, Quality Control
+Sawe Lee, NAV
+Sawe Lee, Bobby Shmurda
+Sawe Lee, French Montana
+Sawe Lee, DeeDay
+Sawe Lee, Gucci Mane
+Sawe Lee, Huncho Jack
+Arijit Singh, Neha Kakkar
+Arijit Singh, Pritam
+Arijit Singh, KK
+Arijit Singh, Armaan Malik
+Arijit Singh, Rahat Fateh Ali Khan
+Arijit Singh, Atif Aslam
+Arijit Singh, Darshan Raval
+Arijit Singh, Badshah
+Arijit Singh, Shreya Ghoshal
+Arijit Singh, Ankit Tiwari
+Arijit Singh, Jubin Nautiyal
+Arijit Singh, Sonu Nigam
+Arijit Singh, Sunidhi Chauhan
+Arijit Singh, Yo Yo Honey Singh
+Arijit Singh, Javed Ali
+Arijit Singh, Vishal Dadlani
+Arijit Singh, Tulsi Kumar
+Arijit Singh, Guru Randhawa
+Arijit Singh, Mohit Chauhan
+Arijit Singh, A.R. Rahman
+AC/DC, KISS
+AC/DC, Aerosmith
+AC/DC, Van Halen
+AC/DC, Guns N' Roses
+AC/DC, Ozzy Osbourne
+AC/DC, Black Sabbath
+AC/DC, ZZ Top
+AC/DC, Iron Maiden
+AC/DC, Alice Cooper
+AC/DC, Scorpions
+AC/DC, Def Leppard
+AC/DC, Motley Crue
+AC/DC, Deep Purple
+AC/DC, Metallica
+AC/DC, Led Zeppelin
+AC/DC, Twisted Sister
+AC/DC, Motorhead
+AC/DC, Judas Priest
+AC/DC, Lynyrd Skynyrd
+AC/DC, The Rolling Stones
+Ellie Goulding, Rita Ora
+Ellie Goulding, Bebe Rexha
+Ellie Goulding, Clean Bandit
+Ellie Goulding, Zara Larsson
+Ellie Goulding, Tove Lo
+Ellie Goulding, Christina Perri
+Ellie Goulding, Anne-Marie
+Ellie Goulding, Jessie J
+Ellie Goulding, Zedd
+Ellie Goulding, Kesha
+Ellie Goulding, Hailee Steinfeld
+Ellie Goulding, Iggy Azalea
+Ellie Goulding, Fifth Harmony
+Ellie Goulding, Alessia Cara
+Ellie Goulding, Halsey
+Ellie Goulding, Kelly Clarkson
+Ellie Goulding, Demi Lovato
+Ellie Goulding, Christina Aguilera
+Ellie Goulding, Sia
+Ellie Goulding, Carly Rae Jepsen
+Gunna, Offset
+Gunna, Young Thug
+Gunna, Quavo
+Gunna, Don Toliver
+Gunna, Lil Durk
+Gunna, Lil Baby
+Gunna, Takeoff
+Gunna, Young Nudy
+Gunna, NAV
+Gunna, Kodak Black
+Gunna, Lil Yachty
+Gunna, Rich The Kid
+Gunna, Lil Keed
+Gunna, Future
+Gunna, Moneybagg Yo
+Gunna, Metro Boomin
+Gunna, Roddy Rich
+Gunna, Key Glock
+Gunna, Lil Tecca
+Gunna, Quality Control

@@ -113,6 +113,22 @@
     background-color: #276dc3 !important;
 }
 
+.bg-cv {
+    background-color: #40e0d0 !important;
+}
+
+.bg-rpi {
+    background-color: #C51A4A !important;
+}
+
+.bg-c {
+    background-color: #00589C !important;
+}
+
+.bg-stm32 {
+    background-color: #000000 !important;
+}
+
 .navbar {
     box-shadow: 0 4px 32px rgba(0, 0, 0, 0.5);
 }
